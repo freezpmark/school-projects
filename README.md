@@ -1,4 +1,3 @@
-# School-projects
 # 2014 - Web presentation of smartphone 
 The eﬀort was to create a simple, easy-to-read page with all needed information for people interested in Samsung Galaxy S4 mini.
 
