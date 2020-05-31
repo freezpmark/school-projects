@@ -21,7 +21,7 @@ The task is to rake the sand on the entire Zen garden. Character always starts a
 
 Used technologies: Java, Eclips
 
-#### 2017 - Production rule system
+### 2017 - Production rule system
 Production system belongs to knowledge systems that use data to create new knowledge. Knowledge is not only expressing information about an object, but also links between objects, properties of selected problems and ways to ﬁnd solutions. Therefore, the knowledge system is in the simplest case a pair - program that can generally manipulate with knowledge and knowledge base that describes the problem and relationships that apply there.
 
 Used technologies: C, CodeBlocks
