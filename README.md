@@ -19,7 +19,7 @@ Used technologies: C (OpenMP, MPI), CodeBlocks
 ### 2017 - Solving optimization problem using evolution algorithm
 The task is to rake the sand on the entire Zen garden. Character always starts at the edge of the garden and leaves straight shaping path until it meets another edge or obstacle. On the edge, character can walk as he please. If it comes to an obstacle - rock or raked sand - he has to turn around, if he isn't able to, raking is over.
 
-Used technologies: Java, Eclips
+Used technologies: Java, Eclipse
 
 ### 2017 - Production rule system
 Production system belongs to knowledge systems that use data to create new knowledge. Knowledge is not only expressing information about an object, but also links between objects, properties of selected problems and ways to ﬁnd solutions. Therefore, the knowledge system is in the simplest case a pair - program that can generally manipulate with knowledge and knowledge base that describes the problem and relationships that apply there.
