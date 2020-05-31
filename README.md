@@ -1,9 +1,9 @@
-# 2017 - Database management system for schools 
+### 2017 - Database management system for schools 
 Application was implemented with graphical user interface which provided the ability to add, delete and edit entries. For displaying entries we can apply various ﬁlters. More than one million diﬀerent entries were generated using Python faker library. School consists of several classes. In each classroom several teachers are teaching and each one of them belong to one classroom. The teacher can teach more subjects, one subject can be taught by several teachers. Subject can be studied by multiple students, each student can study multiple subjects. For each subject is assigned a type of discipline. Each subject consists of several tests. Each of the tests contains several student results. 
 
 Used technologies: Python, Java, PostreSQL, Eclipse
 
-# 2017 - Image ﬁlter parallelization using convolution matrix
+## 2017 - Image ﬁlter parallelization using convolution matrix
 
 Used technologies: C (OpenMP, MPI), CodeBlocks
 
@@ -12,7 +12,7 @@ The task is to rake the sand on the entire Zen garden. Character always starts a
 
 Used technologies: Java, Eclips
 
-# 2017 - Production rule system
+#### 2017 - Production rule system
 Production system belongs to knowledge systems that use data to create new knowledge. Knowledge is not only expressing information about an object, but also links between objects, properties of selected problems and ways to ﬁnd solutions. Therefore, the knowledge system is in the simplest case a pair - program that can generally manipulate with knowledge and knowledge base that describes the problem and relationships that apply there.
 
 Used technologies: C, CodeBlocks
