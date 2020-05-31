@@ -1,12 +1,3 @@
-# 2014 - Web presentation of smartphone 
-The eﬀort was to create a simple, easy-to-read page with all needed information for people interested in Samsung Galaxy S4 mini.
-
-Used technologies: HTML, CSS
-
-# 2015 - Snake game implementation in the web interface environment
-
-Used techonologies: HTML, Javascript
-
 # 2017 - Database management system for schools 
 Application was implemented with graphical user interface which provided the ability to add, delete and edit entries. For displaying entries we can apply various ﬁlters. More than one million diﬀerent entries were generated using Python faker library. School consists of several classes. In each classroom several teachers are teaching and each one of them belong to one classroom. The teacher can teach more subjects, one subject can be taught by several teachers. Subject can be studied by multiple students, each student can study multiple subjects. For each subject is assigned a type of discipline. Each subject consists of several tests. Each of the tests contains several student results. 
 
