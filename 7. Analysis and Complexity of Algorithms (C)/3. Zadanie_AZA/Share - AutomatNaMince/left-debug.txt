@@ -1,0 +1,13 @@
+DEBUG:	Suma:    30	Hmotnost: 295	Pouzite:	8 1 2 	Zvysne:    991     0   997
+
+DEBUG:	Suma:     0	Hmotnost: 0	Pouzite:	0 0 0 	Zvysne:  99999 99999 99999
+DEBUG:	Suma:     1	Hmotnost: 1	Pouzite:	1 0 0 	Zvysne:  99998 99999 99999
+DEBUG:	Suma:     2	Hmotnost: 2	Pouzite:	0 1 0 	Zvysne:  99998 99998 99999
+DEBUG:	Suma:     3	Hmotnost: 3	Pouzite:	0 0 1 	Zvysne:  99998 99998 99998
+DEBUG:	Suma:     4	Hmotnost: 4	Pouzite:	1 0 1 	Zvysne:  99997 99998 99997
+DEBUG:	Suma:     5	Hmotnost: 5	Pouzite:	0 1 1 	Zvysne:  99997 99997 99996
+DEBUG:	Suma:     6	Hmotnost: 6	Pouzite:	0 0 2 	Zvysne:  99997 99997 99994
+DEBUG:	Suma:     7	Hmotnost: 7	Pouzite:	1 0 2 	Zvysne:  99996 99997 99992
+DEBUG:	Suma:     8	Hmotnost: 8	Pouzite:	0 1 2 	Zvysne:  99996 99996 99990
+DEBUG:	Suma:     9	Hmotnost: 9	Pouzite:	0 0 3 	Zvysne:  99996 99996 99987
+

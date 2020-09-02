@@ -1,0 +1,14 @@
+-1
+-1
+DEBUG:	Suma:    10	Hmotnost: 18	Pouzite:	0 2 	Zvysne:      7     5
+DEBUG:	Suma:    10	Hmotnost: 18	Pouzite:	0 2 	Zvysne:      7     3
+DEBUG:	Suma:    15	Hmotnost: 20	Pouzite:	5 0 	Zvysne:      2     3
+DEBUG:	Suma:    10	Hmotnost: 18	Pouzite:	0 2 	Zvysne:      2     1
+-1
+
+DEBUG:	Suma:   903	Hmotnost: 656	Pouzite:	0 0 0 0 0 1 0 3 61 0 	Zvysne:    444   121   868   500   606    22   484   959   652   808
+DEBUG:	Suma:   391	Hmotnost: 281	Pouzite:	0 0 0 0 0 0 0 1 27 0 	Zvysne:    444   121   868   500   606    22   484   958   625   808
+DEBUG:	Suma:   703	Hmotnost: 519	Pouzite:	0 0 0 0 0 2 0 3 46 0 	Zvysne:    444   121   868   500   606    20   484   955   579   808
+DEBUG:	Suma:   222	Hmotnost: 162	Pouzite:	0 0 0 0 0 0 0 2 14 0 	Zvysne:    444   121   868   500   606    20   484   953   565   808
+DEBUG:	Suma:   993	Hmotnost: 711	Pouzite:	0 0 0 0 0 0 0 1 70 0 	Zvysne:    444   121   868   500   606    20   484   952   495   808
+
