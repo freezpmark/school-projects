@@ -1,6 +1,7 @@
 # school-projects
 
-My programming assignments from university. Including some of the projects below that are visible and self-explanatory with images.
+My programming assignments from university (FIIT STU).  
+Including some of the projects below that are visible and self-explanatory with images.
 
 ## (2017) 5. Database management system for schools [Python, Java, PostgreSQL]
 <img src="https://github.com/freezpmark/School-projects/blob/master/5.%20Database%20system%20(Java)/documentation/DBS.jpg" width='510' height='400'/> <img src="https://github.com/FrizzLi/School-projects/blob/master/5.%20Database%20system%20(Java)/documentation/DBS_model.jpg" width='300' height='400'/>
