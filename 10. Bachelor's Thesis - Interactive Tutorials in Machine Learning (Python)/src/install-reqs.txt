@@ -1,0 +1,7 @@
+dash
+numpy
+jupyter
+scipy
+sklearn
+matplotlib
+seaborn
