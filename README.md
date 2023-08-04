@@ -1,7 +1,7 @@
 # school-projects
 
 My programming assignments from university (FIIT STU).  
-Including some of the projects below that are visible and self-explanatory with images.
+Including portion of the projects below which are visible and self-explanatory with images.
 
 ## (2018) Bachelor's Thesis - Interactive tutorials in Machine Learning (Python, Dash framework, Jupyter Notebook, HTML, CSS)
 <img src="https://github.com/freezpmark/school-projects/blob/26ce806e12fc1bfea5a427e30529264e4c02084f/Bachelor's%20Thesis%20-%20Interactive%20Tutorials%20in%20Machine%20Learning%20(Python)/image_dash_app.jpg"/>
