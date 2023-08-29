@@ -14,3 +14,17 @@ Including portion of the projects below which are visible and self-explanatory w
 
 ## (2014) 1. Web presentation of smartphone, (2015) 2. Snake game [HTML, CSS, Javascript]
 <img src="https://github.com/freezpmark/School-projects/blob/master/1.%20Web%20presentation%20(HTML%2C%20CSS)/Documentation/s4.jpg" width='300' height='300'/> <img src="https://github.com/FrizzLi/School-projects/blob/master/2.%20Snake%20game%20(JavaScript%2C%20HTML)/documentation/snake.jpg" width='525' height='300'/>
+
+Programming experience in:
+- Multimedial Content & Interactive Applications Development (HTML, CSS, Javascript)
+- Procedural Programming (C)
+- Object-Oriented Programming (Java)
+- Data Structures and Algorithms & Analysis and Complexity of Algorithms (C, Python)
+- Parallel Programming (C)
+- Computer Networks and Communication using the UDP Protocol (Java)
+- Operating Systems (Shell)
+- Database Systems (Java)
+- Game Development with Physics (C, OpenGL)
+- Artificial Intelligence (C)
+- Intelligent Data Analysis (Python)
+- Machine Learning (Python)
