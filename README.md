@@ -1,6 +1,6 @@
 # school-projects
 
-My programming assignments from university (FIIT STU).  
+Some of my programming assignments from university (FIIT STU).  
 Including portion of the projects below which are visible and self-explanatory with images.
 
 ## (2018) Bachelor's Thesis - Interactive tutorials in Machine Learning (Python, Dash framework, Jupyter Notebook, HTML, CSS)
